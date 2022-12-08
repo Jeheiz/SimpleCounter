@@ -1,12 +1,14 @@
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+   .digito {
+       width: 100px;
+       height: 120px;
+       background-color: rgb(219, 219, 219);
+       color: rgb(45, 45, 55);
+       font-family: 'digital-font';
+       box-shadow: 0 0 10px black;
+   }
+   .fondo {
+       background-color: rgb(219, 219, 219);
+   
+   }
+   
